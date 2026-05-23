@@ -1,6 +1,6 @@
 {
-  "_base": "https://raw.githubusercontent.com/joelepore/samples",
-  "bd": "vanished/kick.wav",
-  "sd": "vanished/snare.wav",
-  "hh": "vanished/hh.wav"
+  "_base": "https://raw.githubusercontent.com/joelepore/samples/refs/heads/master/vanished/",
+  "bd": "kick.wav",
+  "sd": "snare.wav",
+  "hh": "hh.wav"
 }
